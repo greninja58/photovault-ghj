@@ -31,5 +31,29 @@
     "width": 6912,
     "height": 3456,
     "size_bytes": 5582876
+  },
+  {
+    "id": "512cd89ca9e76530",
+    "filename": "95611.jpg",
+    "date_iso": "2026-06-14T14:07:48.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "30073e037f017ff13f203ffc6bc4d810ff9fbe8d4408301cf03fe01ff01ff008",
+    "width": 4000,
+    "height": 3000,
+    "size_bytes": 3541020
+  },
+  {
+    "id": "2799e8fc0a5c0d3f",
+    "filename": "95612.jpg",
+    "date_iso": "2026-06-14T14:08:10.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "100738077f077ff12e003f203ff479f8ffceff8e078e0000ffc35f82ee402e80",
+    "width": 4000,
+    "height": 3000,
+    "size_bytes": 2940159
   }
 ]
