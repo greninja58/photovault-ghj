@@ -163,5 +163,89 @@
     "width": 4000,
     "height": 3000,
     "size_bytes": 8202324
+  },
+  {
+    "id": "df36f1f6a9081f02",
+    "filename": "95232.jpg",
+    "date_iso": "2026-06-13T06:12:17.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "0f013fb6ffa44ca00fe26fe40fe02ee0fe702ff01fd018381c201e603ee83ffe",
+    "width": 2252,
+    "height": 4000,
+    "size_bytes": 5400616
+  },
+  {
+    "id": "a5042435b9bf4307",
+    "filename": "95231.jpg",
+    "date_iso": "2026-06-13T06:12:11.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "2a810301ffbcffb0cee88fe2dff006207e328f782ff80c0c5c721e601f601ffa",
+    "width": 2252,
+    "height": 4000,
+    "size_bytes": 5162649
+  },
+  {
+    "id": "d7e3cbdc09d1a2c4",
+    "filename": "95219.jpg",
+    "date_iso": "2026-06-13T05:15:48.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "2ffffff4fc000000fffc7fe05fc00000ff00ff80ef0236c15de3ff83a1432c01",
+    "width": 2252,
+    "height": 4000,
+    "size_bytes": 7851207
+  },
+  {
+    "id": "5635b8485f9945cf",
+    "filename": "95221.jpg",
+    "date_iso": "2026-06-13T05:15:52.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "0ffffff8fd000000ffd8ffe07f800200fe01ff81be017981fec3ffc300c3a501",
+    "width": 2252,
+    "height": 4000,
+    "size_bytes": 8894817
+  },
+  {
+    "id": "8ff0618eacd25a13",
+    "filename": "95206.jpg",
+    "date_iso": "2026-06-13T05:06:17.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "10ffb07f303f001f307f34fe11f8f300ef801f801f809f9f0fbe10ff007f007f",
+    "width": 2252,
+    "height": 4000,
+    "size_bytes": 8203534
+  },
+  {
+    "id": "539b4b95bae213f2",
+    "filename": "95208.jpg",
+    "date_iso": "2026-06-13T05:06:36.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "50ffa17f301f001f717f15be5598f400f807fb0a031371bb00070307ff87ff87",
+    "width": 2252,
+    "height": 4000,
+    "size_bytes": 9095469
+  },
+  {
+    "id": "cf68822479ddead7",
+    "filename": "95211.jpg",
+    "date_iso": "2026-06-13T05:06:45.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "c71f831e11bc06fc077c45588ef8bde0efc07fc4be00fc02fecf38cb02ca06ca",
+    "width": 4000,
+    "height": 2252,
+    "size_bytes": 9017327
   }
 ]
