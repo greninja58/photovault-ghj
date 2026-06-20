@@ -55,5 +55,113 @@
     "width": 4000,
     "height": 3000,
     "size_bytes": 2940159
+  },
+  {
+    "id": "01713aaf873d7d1c",
+    "filename": "95499.jpg",
+    "date_iso": "2026-06-14T04:46:49.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "0f8a4adf20f171f8c1f141c068c37fdb1e400fe06ff06ff06ff86fe00fc00fc0",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 7218414
+  },
+  {
+    "id": "c9f688d9941a81d4",
+    "filename": "95503.jpg",
+    "date_iso": "2026-06-14T05:42:40.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "88a7704f7e0edc4c78377a3e7e00f026c7a0fd87fc10b243e553e5d0e7461c1c",
+    "width": 4000,
+    "height": 3000,
+    "size_bytes": 12788658
+  },
+  {
+    "id": "5ec2c9758eaa49ca",
+    "filename": "95498.jpg",
+    "date_iso": "2026-06-14T04:46:47.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "000b1f3a7bbfa073f1f6c1f141c058de18007ee07fe07ff06ff04ff0cfc00bc0",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 8544704
+  },
+  {
+    "id": "39c6784ab6c34ed9",
+    "filename": "95501.jpg",
+    "date_iso": "2026-06-14T05:03:20.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "00003ffc3ff81ff00420073e1bfe1ff602c007fe23fb9e7807fcc3f607d51c90",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 8224383
+  },
+  {
+    "id": "363aed12531b53ef",
+    "filename": "95500.jpg",
+    "date_iso": "2026-06-14T05:03:15.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "000007fd3ffc1ff80730063c17fe17f603c407ff23b9ce380ff867d31fc01d40",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 3900800
+  },
+  {
+    "id": "eec1a847be89db75",
+    "filename": "95495.jpg",
+    "date_iso": "2026-06-14T04:45:40.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "006d03eb31ee0b7f0ff710d7289407de07d20fee0ff303c10fef0fc607e40785",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 9444247
+  },
+  {
+    "id": "ca05d64be8ba72e8",
+    "filename": "95485.jpg",
+    "date_iso": "2026-06-14T04:36:17.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "1fff01c20e181ff8007b1cfb1cfb083b183b1c3b1c7b0c7b083f0c3f183b1d3f",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 6992365
+  },
+  {
+    "id": "bdd2bb99b6746f66",
+    "filename": "95484.jpg",
+    "date_iso": "2026-06-14T04:36:01.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "0ffff990002e3fc000c0f8dafcdaf0dae1dee03ee03ee01ae00af07ef01af07e",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 5981116
+  },
+  {
+    "id": "2e835ae47298be14",
+    "filename": "95475.jpg",
+    "date_iso": "2026-06-14T04:33:32.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "f5f0f5e0f5c0a0e0f460f064d4ecd0fcf1f443f877107704fe07fc07f407c007",
+    "width": 4000,
+    "height": 3000,
+    "size_bytes": 8202324
   }
 ]
