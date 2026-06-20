@@ -403,5 +403,17 @@
     "width": 3000,
     "height": 4000,
     "size_bytes": 3430007
+  },
+  {
+    "id": "93852aff3bdec876",
+    "filename": "95614.jpg",
+    "date_iso": "2026-06-14T14:08:42.000Z",
+    "camera": "samsung Galaxy S25+",
+    "tags": [],
+    "faces": [],
+    "hash": "0001000ff91fffff7000f600ff00ffdfffdf7fcf07010000e8cd9f9d87cc0078",
+    "width": 3000,
+    "height": 4000,
+    "size_bytes": 3569076
   }
 ]
